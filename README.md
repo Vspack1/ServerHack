@@ -1,2 +1,2 @@
-# ServerHack
+# Server
 A first server
